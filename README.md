@@ -8,7 +8,7 @@ Besides coding, I also like ancient chinese poems, reading masterpieces, writing
 
 #### Most used languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsuichen&layout=compact)](https://github.com/Christmas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsuichen&layout=compact)](https://github.com/jinsuichen/github-readme-stats)
 
 #### Technologies I use
 

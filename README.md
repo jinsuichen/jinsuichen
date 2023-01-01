@@ -10,8 +10,13 @@ Besides coding, I also like ancient chinese poems, reading masterpieces, writing
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsuichen&layout=compact)](https://github.com/jinsuichen/github-readme-stats)
 
-#### Technologies I use
+#### GitHub Stats
 
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=jinsuichen)]()
+
+
+
+#### Technologies I use
 
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

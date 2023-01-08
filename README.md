@@ -2,9 +2,9 @@
 
 Welcome to my page! My pleasure, you are my ![Visitor Count](https://profile-counter.glitch.me/jinsuichen/count.svg) th visitor! Nice to see you!
 
-I'm Jinsui Chen, student in China. I was engaged in algorithm competition during my college years, and luckily won the gold medal in the icpc regional competition. Graph theory algorithm is my strong point, and I have a deeper study of it. After away from competitive programming, I want to work in the development direction. Now learning web development is my main work.
+I'm Jinsui Chen, a student in China. I was engaged in algorithm competitions during my college years and luckily won the gold medal in the ICPC regional competition. Graph theory algorithm is my strong point, and I have a deeper study of it. After being away from competitive programming, I want to work in the development direction. Now learning web development is my main work.
 
-Besides coding, I also like ancient chinese poems, reading masterpieces, writing, video games and so on. I think ancient poem is full of beauty and rhythm, can make people feel in the scene and resonate with the author. I like China's extensive and profound history and culture, I wanna going to different countries and regions to experience different customs.
+Besides coding, I also like ancient Chinese poems, reading masterpieces, writing, video games, and so on. I think the ancient poem is full of beauty and rhythm and can make people feel in the scene and resonate with the author. I like China's extensive and profound history and culture, and I wanna going to different countries and regions to experience different customs.
 
 #### Most used languages
 

@@ -18,8 +18,8 @@ Besides coding, I also like ancient Chinese poems, reading masterpieces, writing
 #### My states
 
 <div>
-  <img style="height: 280px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinsuichen&layout=compact)](https://github.com/jinsuichen/github-readme-stats" />
-  <img style="height: 280px;" src="https://github-readme-stats.vercel.app/api?username=jinsuichen"/>
+  <img style="width: 30%; height: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinsuichen&layout=compact)](https://github.com/jinsuichen/github-readme-stats" />
+  <img style="width: 66%; height: 100%" src="https://github-readme-stats.vercel.app/api?username=jinsuichen"/>
 <div/>
   
 

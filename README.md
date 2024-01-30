@@ -19,7 +19,7 @@ th visitor! Nice to see you!
 
 👨‍💻 **Work:** 
 - [Alipay](https://www.antgroup.com/en)  [May 2023 - present]
-- Worked on Big Data Platform, involved in [Apache Flink](https://flink.apache.org/) part
+- Worked on Big Data Platform, involved in Real-time component powered by [Apache Flink](https://flink.apache.org/) 
 
 📮 **Contact:** 
 - [ischenjinsui@gmail.com](mailto:ischenjinsui@gmail.com)

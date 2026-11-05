@@ -1,27 +1,27 @@
-### Hi there 👋
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Jinsui Chen — Software Engineer. Stay curious. Build with purpose. Share what you learn." />
+</p>
 
-I'm Jinsui Chen, a passionate software engineer. 
+Hi, I'm **Jinsui Chen** 👋
 
-My pleasure, you are my 
-<span style='height: 12px; display: inline-block; vertical-align: middle;'>
-  <img src="https://profile-counter.glitch.me/jinsuichen/count.svg" alt="Visitor Count" style="width: 150px; height: auto;">
-</span>
-th visitor! Nice to see you!
-<hr/>
-<br/>
+I'm a software engineer who enjoys solving problems, building useful tools, and sharing what I learn. My interests span algorithms, real-time data processing, and web development.
 
-🏫 **Education:** 
-- [Northeastern University (China)](https://english.neu.edu.cn/)
-- Software Engineering
+## About
 
-🏆 **Achievements:** 
-- ACM / [ICPC](https://icpc.global/) Gold Medalist
+- 🎓 Studied **Software Engineering** at [Northeastern University, China](https://english.neu.edu.cn/).
+- 🏅 **ACM / ICPC Gold Medalist**, with a lasting interest in algorithms and problem solving.
+- ⚡ Previously contributed to a big data platform at **Alipay**, focusing on real-time capabilities powered by [Apache Flink](https://flink.apache.org/).
 
-👨‍💻 **Work:** 
-- [Alipay](https://www.antgroup.com/en)  [May 2023 - present]
-- Contributed to a Big Data Platform, focusing on its real-time capabilities powered by [Apache Flink](https://flink.apache.org/) 
+## Tech
 
-📮 **Contact:** 
-- [ischenjinsui@gmail.com](mailto:ischenjinsui@gmail.com)
+<img src="./assets/tech.svg" width="628" alt="Python · JavaScript · TypeScript · Vue.js · Apache Flink" />
 
-Feel free to connect with me! 😊
+## Connect
+
+Open to conversations about software, algorithms, and things worth building.
+
+**Say hello → [ischenjinsui@gmail.com](mailto:ischenjinsui@gmail.com)**
+
+---
+
+<sub>Be a wave in the tide of the golden age, and contribute to the collective knowledge of humanity.</sub>

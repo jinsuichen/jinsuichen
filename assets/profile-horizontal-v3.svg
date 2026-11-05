@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title description">
   <title id="title">Jinsui Chen — Software Engineer</title>
-  <desc id="description">Software Engineering at Northeastern University, China. ACM / ICPC Gold Medalist. Currently at Douyin China E-commerce. Previously worked on real-time data platforms at Alipay. Tech: Python, JavaScript, TypeScript, Vue.js, Apache Flink. Contact: ischenjinsui@gmail.com.</desc>
+  <desc id="description">Software Engineering at Northeastern University, China. ACM / ICPC Gold Medalist. Currently at Douyin China E-commerce. Previously worked on real-time data platforms at Alipay. Tech: TypeScript, Python, Go, Apache Flink. Contact: ischenjinsui@gmail.com.</desc>
   <defs>
     <linearGradient id="hero" x2="1" y2="1"><stop stop-color="#14264f"/><stop offset=".55" stop-color="#2b4083"/><stop offset="1" stop-color="#6549ab"/></linearGradient>
     <linearGradient id="line"><stop stop-color="#7dd3fc"/><stop offset="1" stop-color="#c4b5fd"/></linearGradient>
@@ -24,20 +24,18 @@
 
     <text x="388" y="42" fill="#93c5fd" font-size="13" font-weight="700" letter-spacing="2.5">ABOUT</text>
     <g font-size="18">
-      <text x="388" y="76" fill="#f3f4f6" font-weight="600">Northeastern University, China</text>
-      <text x="388" y="102" fill="#b8c4d8" font-size="16">Software Engineering</text>
+      <text x="388" y="76" fill="#f3f4f6"><tspan font-weight="600">Northeastern University, China</tspan><tspan fill="#b8c4d8"> · Software Engineering</tspan></text>
       <text x="388" y="138" fill="#f3f4f6" font-weight="600">ACM / ICPC Gold Medalist</text>
       <text x="388" y="174" fill="#f3f4f6"><tspan font-weight="600">Douyin China E-commerce</tspan><tspan fill="#b8c4d8"> · Current</tspan></text>
       <text x="388" y="210" fill="#f3f4f6"><tspan font-weight="600">Alipay</tspan><tspan fill="#b8c4d8"> · Previously worked on real-time data platforms</tspan></text>
     </g>
     <path d="M388 231H1162" stroke="#293449"/>
     <text x="388" y="258" fill="#93c5fd" font-size="13" font-weight="700" letter-spacing="2.5">TECH</text>
-    <g transform="translate(388 273)" font-size="14" font-weight="600" text-anchor="middle">
-      <rect width="88" height="31" rx="7" fill="#1e3a5f"/><text x="44" y="21" fill="#bfdbfe">Python</text>
-      <rect x="98" width="112" height="31" rx="7" fill="#423b20"/><text x="154" y="21" fill="#fde68a">JavaScript</text>
-      <rect x="220" width="112" height="31" rx="7" fill="#1e3a5f"/><text x="276" y="21" fill="#bfdbfe">TypeScript</text>
-      <rect x="342" width="86" height="31" rx="7" fill="#173f38"/><text x="385" y="21" fill="#a7f3d0">Vue.js</text>
-      <rect x="438" width="132" height="31" rx="7" fill="#422c4e"/><text x="504" y="21" fill="#f5d0fe">Apache Flink</text>
+    <g transform="translate(388 273)" font-size="14" font-weight="600" text-anchor="middle" fill="#bfdbfe">
+      <rect width="112" height="31" rx="7" fill="#1e3a5f"/><text x="56" y="21">TypeScript</text>
+      <rect x="122" width="88" height="31" rx="7" fill="#1e3a5f"/><text x="166" y="21">Python</text>
+      <rect x="220" width="64" height="31" rx="7" fill="#1e3a5f"/><text x="252" y="21">Go</text>
+      <rect x="294" width="132" height="31" rx="7" fill="#1e3a5f"/><text x="360" y="21">Apache Flink</text>
     </g>
     <text x="388" y="342" fill="#e0e7ff" font-size="18" font-weight="600">ischenjinsui@gmail.com</text>
     <text x="388" y="368" fill="#b8c4d8" font-size="14">Open to conversations about software, algorithms, and things worth building.</text>

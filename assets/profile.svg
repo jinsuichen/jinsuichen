@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1080" viewBox="0 0 960 1080" role="img" aria-labelledby="title description">
+  <title id="title">Jinsui Chen — Software Engineer</title>
+  <desc id="description">Software Engineering at Northeastern University, China. ACM / ICPC Gold Medalist. Currently at Douyin China E-commerce. Previously worked on real-time data platforms at Alipay. Tech: Python, JavaScript, TypeScript, Vue.js, Apache Flink. Contact: ischenjinsui@gmail.com.</desc>
+  <defs>
+    <linearGradient id="hero" x2="1" y2="1"><stop stop-color="#14264f"/><stop offset=".55" stop-color="#2b4083"/><stop offset="1" stop-color="#6549ab"/></linearGradient>
+    <linearGradient id="line"><stop stop-color="#7dd3fc"/><stop offset="1" stop-color="#c4b5fd"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".04"/></pattern>
+    <clipPath id="card"><rect x="1" y="1" width="958" height="1078" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)" font-family="Arial, Helvetica, sans-serif">
+    <rect width="960" height="1080" fill="#111827"/>
+    <rect width="960" height="252" fill="url(#hero)"/>
+    <rect width="960" height="252" fill="url(#grid)"/>
+    <circle cx="904" cy="2" r="190" fill="#c4b5fd" opacity=".07"/>
+    <circle cx="904" cy="2" r="142" fill="none" stroke="#c4b5fd" stroke-opacity=".2"/>
+    <path d="M650 250C750 70 825 340 1000 110M650 218C750 38 825 308 1000 78M650 186C750 6 825 276 1000 46" fill="none" stroke="url(#line)" stroke-width="2" opacity=".4"/>
+    <text x="56" y="65" fill="#c7d7ff" font-size="19">Hi, I'm</text>
+    <text x="53" y="132" fill="#fff" font-size="54" font-weight="700" letter-spacing="-1">Jinsui Chen</text>
+    <text x="56" y="181" fill="#dbeafe" font-size="20" letter-spacing="3">SOFTWARE ENGINEER</text>
+    <rect x="56" y="211" width="42" height="4" rx="2" fill="#93c5fd"/>
+
+    <text x="56" y="317" fill="#93c5fd" font-size="17" font-weight="700" letter-spacing="3">ABOUT</text>
+
+    <circle cx="64" cy="363" r="5" fill="#a5b4fc"/>
+    <text x="86" y="371" fill="#f3f4f6" font-size="24" font-weight="600">Software Engineering</text>
+    <text x="86" y="405" fill="#b8c4d8" font-size="21">Northeastern University, China</text>
+
+    <circle cx="64" cy="458" r="5" fill="#a5b4fc"/>
+    <text x="86" y="466" fill="#f3f4f6" font-size="24" font-weight="600">ACM / ICPC Gold Medalist</text>
+
+    <circle cx="64" cy="519" r="5" fill="#a5b4fc"/>
+    <text x="86" y="527" fill="#f3f4f6" font-size="24" font-weight="600">Douyin China E-commerce</text>
+    <text x="86" y="561" fill="#b8c4d8" font-size="21">Currently working here</text>
+
+    <circle cx="64" cy="614" r="5" fill="#a5b4fc"/>
+    <text x="86" y="622" fill="#f3f4f6" font-size="24" font-weight="600">Alipay</text>
+    <text x="86" y="656" fill="#b8c4d8" font-size="21">Previously worked on real-time data platforms</text>
+
+    <path d="M56 699H904" stroke="#293449"/>
+    <text x="56" y="749" fill="#93c5fd" font-size="17" font-weight="700" letter-spacing="3">TECH</text>
+    <g transform="translate(56 776)" font-size="18" font-weight="600" text-anchor="middle">
+      <rect width="116" height="44" rx="9" fill="#1e3a5f"/><text x="58" y="29" fill="#bfdbfe">Python</text>
+      <rect x="128" width="150" height="44" rx="9" fill="#423b20"/><text x="203" y="29" fill="#fde68a">JavaScript</text>
+      <rect x="290" width="150" height="44" rx="9" fill="#1e3a5f"/><text x="365" y="29" fill="#bfdbfe">TypeScript</text>
+      <rect x="452" width="114" height="44" rx="9" fill="#173f38"/><text x="509" y="29" fill="#a7f3d0">Vue.js</text>
+      <rect x="578" width="174" height="44" rx="9" fill="#422c4e"/><text x="665" y="29" fill="#f5d0fe">Apache Flink</text>
+    </g>
+
+    <path d="M56 862H904" stroke="#293449"/>
+    <text x="56" y="912" fill="#93c5fd" font-size="17" font-weight="700" letter-spacing="3">CONNECT</text>
+    <text x="56" y="956" fill="#b8c4d8" font-size="21">Open to conversations about software, algorithms,</text>
+    <text x="56" y="986" fill="#b8c4d8" font-size="21">and things worth building.</text>
+    <text x="56" y="1033" fill="#e0e7ff" font-size="24" font-weight="600">ischenjinsui@gmail.com</text>
+  </g>
+  <rect x="1" y="1" width="958" height="1078" rx="24" fill="none" stroke="#34415b" stroke-width="2"/>
+</svg>

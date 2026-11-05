@@ -9,8 +9,9 @@ I'm a software engineer who enjoys solving problems, building useful tools, and 
 ## About
 
 - 🎓 Studied **Software Engineering** at [Northeastern University, China](https://english.neu.edu.cn/).
-- 🏅 **ACM / ICPC Gold Medalist**, with a lasting interest in algorithms and problem solving.
-- ⚡ Previously contributed to a big data platform at **Alipay**, focusing on real-time capabilities powered by [Apache Flink](https://flink.apache.org/).
+- 🏅 **ACM / ICPC Gold Medalist**.
+- 💼 Currently working at **Douyin China E-commerce**.
+- ⚡ Previously worked on real-time data platforms at **Alipay**.
 
 ## Tech
 
@@ -21,7 +22,3 @@ I'm a software engineer who enjoys solving problems, building useful tools, and 
 Open to conversations about software, algorithms, and things worth building.
 
 **Say hello → [ischenjinsui@gmail.com](mailto:ischenjinsui@gmail.com)**
-
----
-
-<sub>Be a wave in the tide of the golden age, and contribute to the collective knowledge of humanity.</sub>

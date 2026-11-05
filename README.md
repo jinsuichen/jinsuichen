@@ -4,8 +4,6 @@
 
 Hi, I'm **Jinsui Chen** 👋
 
-I'm a software engineer who enjoys solving problems, building useful tools, and sharing what I learn. My interests span algorithms, real-time data processing, and web development.
-
 ## About
 
 - 🎓 Studied **Software Engineering** at [Northeastern University, China](https://english.neu.edu.cn/).

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="336" viewBox="0 0 860 336" role="img" aria-labelledby="title description">
+  <title id="title">Jinsui Chen — Software Engineer</title>
+  <desc id="description">Software Engineering at Northeastern University, China. ICPC East Asia Regional Contest Gold Medalist. Software Engineer at Douyin China E-commerce. Previously at Alipay, working on real-time data platforms. Tech: TypeScript, Python, Go, Apache Flink. Contact: ischenjinsui@gmail.com.</desc>
+  <defs>
+    <linearGradient id="hero" x2="1" y2="1"><stop stop-color="#14264f"/><stop offset=".55" stop-color="#2b4083"/><stop offset="1" stop-color="#6549ab"/></linearGradient>
+    <linearGradient id="line"><stop stop-color="#7dd3fc"/><stop offset="1" stop-color="#c4b5fd"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".04"/></pattern>
+    <clipPath id="card"><rect x="1" y="1" width="858" height="334" rx="18"/></clipPath>
+    <clipPath id="left"><rect width="260" height="336"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)" font-family="Arial, Helvetica, sans-serif">
+    <rect width="860" height="336" fill="#111827"/>
+    <rect width="260" height="336" fill="url(#hero)"/>
+    <rect width="260" height="336" fill="url(#grid)"/>
+    <g clip-path="url(#left)">
+      <circle cx="260" cy="300" r="140" fill="#c4b5fd" opacity=".06"/>
+      <path d="M-40 270C70 110 135 400 320 190M-40 300C70 140 135 430 320 220M-40 330C70 170 135 460 320 250" fill="none" stroke="url(#line)" stroke-width="1.5" opacity=".35"/>
+    </g>
+    <text x="28" y="67" fill="#c7d7ff" font-size="17">Hi, I'm</text>
+    <text x="26" y="114" fill="#fff" font-size="37" font-weight="700" letter-spacing="-1">Jinsui Chen</text>
+    <text x="28" y="147" fill="#dbeafe" font-size="13" letter-spacing="1.5">SOFTWARE ENGINEER</text>
+    <rect x="28" y="171" width="32" height="3" rx="1.5" fill="#93c5fd"/>
+    <text x="28" y="306" fill="#c7d7ff" font-size="14">@jinsuichen</text>
+
+    <text x="292" y="35" fill="#93c5fd" font-size="12" font-weight="700" letter-spacing="2.5">ABOUT</text>
+    <g font-size="17">
+      <text x="292" y="65" fill="#f3f4f6"><tspan font-weight="600">Northeastern University, China</tspan><tspan fill="#b8c4d8"> · Software Engineering</tspan></text>
+      <text x="292" y="98" fill="#f3f4f6" font-weight="600">ICPC East Asia Regional Contest Gold Medalist</text>
+      <text x="292" y="131" fill="#f3f4f6"><tspan font-weight="600">Douyin China E-commerce</tspan><tspan fill="#b8c4d8"> · Software Engineer</tspan></text>
+      <text x="292" y="164" fill="#f3f4f6"><tspan font-weight="600">Previously at Alipay</tspan><tspan fill="#b8c4d8"> · Real-time Data Platforms</tspan></text>
+    </g>
+    <path d="M292 185H828" stroke="#293449"/>
+    <text x="292" y="210" fill="#93c5fd" font-size="12" font-weight="700" letter-spacing="2.5">TECH</text>
+    <g transform="translate(292 224)" font-size="14" font-weight="600" text-anchor="middle" fill="#bfdbfe">
+      <rect width="138" height="32" rx="7" fill="#1e3a5f"/><text x="69" y="22">TypeScript</text>
+      <rect x="150" width="116" height="32" rx="7" fill="#1e3a5f"/><text x="208" y="22">Python</text>
+      <rect x="278" width="90" height="32" rx="7" fill="#1e3a5f"/><text x="323" y="22">Go</text>
+      <rect x="380" width="156" height="32" rx="7" fill="#1e3a5f"/><text x="458" y="22">Apache Flink</text>
+    </g>
+    <text x="292" y="290" fill="#e0e7ff" font-size="17" font-weight="600">ischenjinsui@gmail.com</text>
+    <text x="292" y="313" fill="#b8c4d8" font-size="14">Let's connect and build something useful.</text>
+  </g>
+  <rect x="1" y="1" width="858" height="334" rx="18" fill="none" stroke="#34415b" stroke-width="2"/>
+</svg>

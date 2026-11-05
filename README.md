@@ -1,1 +1,1 @@
-![Jinsui Chen — Software Engineer. Education, achievements, work, tech, and contact information.](./assets/profile-horizontal-v4.svg)
+![Jinsui Chen — Software Engineer. Education, achievements, work, tech, and contact information.](./assets/profile-horizontal-v5.svg)
